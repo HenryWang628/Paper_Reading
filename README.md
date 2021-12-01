@@ -4,7 +4,7 @@
 |Time|Model|Finish?|Link|
 |:-:|:-:|:-:|:-:|
 |2021-12-01|Transformer|✅||
-||BERT||
+|2021-12-01|BERT|✅||
 
 ## General Models
 |Time|Model|Finish?|Link|
