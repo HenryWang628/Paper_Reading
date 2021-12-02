@@ -3,8 +3,8 @@
 ## Natural Language Processing
 |Time|Model|Finish?|Link|
 |:-:|:-:|:-:|:-:|
-|2021-12-01|Transformer|✅||
-|2021-12-01|BERT|✅||
+|2021-12-01|Transformer|✅|[Link](https://github.com/HenryWang628/Paper_Reading/tree/main/Transformer)|
+|2021-12-01|BERT|✅|[Link](https://github.com/HenryWang628/Paper_Reading/tree/main/BERT)|
 
 ## General Models
 |Time|Model|Finish?|Link|
