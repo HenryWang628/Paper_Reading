@@ -15,8 +15,8 @@
 ![image](https://github.com/HenryWang628/Paper_Reading/blob/main/pic/RS.JPG?raw=true)
 |Time|Model|Finish?|Link|
 |:-:|:-:|:-:|:-:|
-|2021-11-01|UserCF & ItemCF | ✅ ||
-|2021-11-15|MF| ✅ ||
+|2021-11-01|UserCF & ItemCF | ✅ |[Link](https://github.com/HenryWang628/Paper_Reading/blob/main/UserCF%26ItemCF.pdf)|
+|2021-11-15|MF| ✅ |[Link](https://github.com/HenryWang628/Paper_Reading/blob/main/MF--%20SVD%E3%80%81LFM%E3%80%81RSVD%E3%80%81SVD%2B%2B%EF%BC%88Matrix%20Factorization%EF%BC%89.pdf)|
 ||POLY2|||
 ||FM|||
 ||FMM|||
