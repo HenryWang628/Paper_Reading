@@ -9,7 +9,7 @@
 ## General Models
 |Time|Model|Finish?|Link|
 |:-:|:-:|:-:|:-:|
-||GCN|| ✅ |
+|2021-12-02|GCN|✅|[Link](https://distill.pub/2021/gnn-intro/) |
 
 ## Recommendation system
 |Time|Model|Finish?|Link|
