@@ -12,6 +12,7 @@
 |2021-12-02|GCN|✅|[Link](https://distill.pub/2021/gnn-intro/) |
 
 ## Recommendation system
+![image](https://github.com/HenryWang628/Paper_Reading/blob/main/pic/RS.JPG?raw=true)
 |Time|Model|Finish?|Link|
 |:-:|:-:|:-:|:-:|
 |2021-11-01|UserCF & ItemCF | ✅ ||
