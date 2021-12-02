@@ -17,7 +17,7 @@
 
   - ###### **梯度更新**：
 
-  - ![image-20211202223748023](C:\Users\Huayra\AppData\Roaming\Typora\typora-user-images\image-20211202223748023.png)
+  - ![image-20211202223748023](https://github.com/HenryWang628/Paper_Reading/blob/main/pic/POLY2.png?raw=true)
 
     （加号是因为交叉熵中带有负号）
 
