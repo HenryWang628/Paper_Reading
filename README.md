@@ -9,7 +9,7 @@
 ## General Models
 |Time|Model|Finish?|Link|
 |:-:|:-:|:-:|:-:|
-||GCN||
+||GCN|| ✅ |
 
 ## Recommendation system
 |Time|Model|Finish?|Link|
