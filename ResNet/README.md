@@ -3,3 +3,4 @@ ResNet本质并不是解决所谓过拟合的问题，因为随着网络越深�
 本质应该是解决网络深度增加导致的网络退化/难优化的问题
 参考：
 https://zhuanlan.zhihu.com/p/268308900
+![Resnet18](https://github.com/HenryWang628/Paper_Reading/blob/main/ResNet/Resnet18.PNG)
