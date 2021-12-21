@@ -5,5 +5,6 @@ ResNet本质并不是解决所谓过拟合的问题，因为随着网络越深�
 参考：
 https://zhuanlan.zhihu.com/p/268308900
 
-ResNet18 网络结构（Bottleneck只有ResNet50及以上才有）
+### ResNet18 网络结构（Bottleneck只有ResNet50及以上才有）
+
 ![Resnet18](https://github.com/HenryWang628/Paper_Reading/blob/main/ResNet/Resnet18.PNG)
