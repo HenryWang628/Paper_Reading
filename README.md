@@ -22,7 +22,7 @@
 |:--------:|:--------------:|:--:|:-:|
 |2021-11-01|UserCF & ItemCF | ✅ |[基本概念&数学推导](https://github.com/HenryWang628/Paper_Reading/blob/main/Recommendation%20System/UserCF%26ItemCF.pdf)|
 |2021-11-15|     MF         | ✅ |[基本概念&数学推导](https://github.com/HenryWang628/Paper_Reading/blob/main/Recommendation%20System/MF--%20SVD%E3%80%81LFM%E3%80%81RSVD%E3%80%81SVD%2B%2B%EF%BC%88Matrix%20Factorization%EF%BC%89.pdf)|
-|2021-12-04|     LR         | ✅ |[基本概念&数学推导](https://github.com/HenryWang628/Paper_Reading/blob/main/Recommendation%20System/LR.pdf)|
+|2021-12-04|     LR         | ✅ |[基本概念&数学推导](https://github.com/HenryWang628/Paper_Reading/blob/main/Recommendation%20System/LR.pdf) ,[推导2](https://github.com/HenryWang628/Paper_Reading/blob/main/Recommendation%20System/LR.PNG)|
 |2021-12-02|     POLY2      | ✅ |[基本概念](https://github.com/HenryWang628/Paper_Reading/blob/main/Recommendation%20System/POLY2.md), [数学推导](https://github.com/HenryWang628/Paper_Reading/blob/main/Recommendation%20System/POLY2.pdf)|
 |2021-12-04|     FM         | ✅ |[基本概念&数学推导](https://github.com/HenryWang628/Paper_Reading/blob/main/Recommendation%20System/FM.pdf)|
 |2021-12-04|    FMM         | ✅ |[基本概念&数学推导](https://github.com/HenryWang628/Paper_Reading/blob/main/Recommendation%20System/FFM.pdf)|
