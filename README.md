@@ -15,6 +15,7 @@
 |Time|Model|Finish?|Link|
 |:-:|:-:|:-:|:-:|
 |2021-12-02|XGboost|✅|[Link](https://github.com/HenryWang628/Paper_Reading/blob/main/Machine%20Learning/XGBoost.pdf) |
+|2022-1-08|GBDT|✅|[Link](https://www.cnblogs.com/pinard/p/6140514.html) |
 
 ## Recommendation system
 ![image](https://github.com/HenryWang628/Paper_Reading/blob/main/pic/RS.JPG?raw=true)
