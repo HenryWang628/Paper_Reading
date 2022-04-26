@@ -8,7 +8,7 @@
 
   - 输入和输出：
 
-    - 输入为给定用户的历史点击的新闻 ，以及候选新闻。 新闻是通过标题的词语表示。
+     输入为给定用户的历史点击的新闻 ，以及候选新闻。 新闻是通过标题的词语表示。
 
       ![architecture](https://d3i71xaburhd42.cloudfront.net/a91553fe20e832c38e8f9ef4a4feb3d20eae0b0f/2-Figure2-1.png)
 
